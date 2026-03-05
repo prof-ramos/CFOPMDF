@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1772683705845,
+  "projectRoot": "/Users/gabrielramos/CFOPMDF",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "CONTEUDO_PROGRAMATICO": {
+      "path": "CONTEUDO_PROGRAMATICO",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1772683705812,
+      "keyFiles": [
+        "CONTEUDO_PLCD.md",
+        "CONTEUDO_PMDF.md"
+      ]
+    },
+    "EDITAIS": {
+      "path": "EDITAIS",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1772683705813,
+      "keyFiles": [
+        "EDITAL_CFO.md",
+        "EDITAL_PLF.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 7,
+      "lastAccessed": 1772683898562,
+      "type": "file"
+    },
+    {
+      "path": "comparacao_conteudos.md",
+      "accessCount": 1,
+      "lastAccessed": 1772683790870,
+      "type": "file"
+    },
+    {
+      "path": "CONTEUDO_PROGRAMATICO/CONTEUDO_PMDF.md",
+      "accessCount": 1,
+      "lastAccessed": 1772683790937,
+      "type": "file"
+    },
+    {
+      "path": "CONTEUDO_PROGRAMATICO/CONTEUDO_PLCD.md",
+      "accessCount": 1,
+      "lastAccessed": 1772683790952,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

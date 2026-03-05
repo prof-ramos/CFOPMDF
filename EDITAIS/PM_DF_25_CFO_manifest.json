@@ -1,0 +1,207 @@
+{
+  "concurso": "pm_df_25_cfo",
+  "api_url": "https://apis.cebraspe.org.br/cebraspe/eventos/pm_df_25_cfo",
+  "total_api": 18,
+  "baixados_ok": 18,
+  "falhas": 0,
+  "itens": [
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-02-03T15:00:00",
+      "dataArquivo": "03/02/2025 15:00",
+      "descricaoArquivo": "Edital nº 03/2025 – Abertura",
+      "nomeArquivo": "ED_1_PMDF_CFO_25_ABERTURA1.PDF",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/ED_1_PMDF_CFO_25_ABERTURA1.PDF",
+      "arquivo_local": "2025-02-03_edital-n-03-2025-abertura.pdf",
+      "bytes": 1132018,
+      "sha256": "49ea02e39379f305b0a30d57246a59832a2a462e1bdb6fe0fd6172c1bf518517"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-02-03T15:00:01",
+      "dataArquivo": "03/02/2025 15:00",
+      "descricaoArquivo": "Edital nº 03/2025 – Abertura - Conforme publicação no DOU",
+      "nomeArquivo": "ED_1_PMDF_CFO_25_ABERTURA___VERSO___DOU.PDF",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/ED_1_PMDF_CFO_25_ABERTURA___VERSO___DOU.PDF",
+      "arquivo_local": "2025-02-03_edital-n-03-2025-abertura-conforme-publicacao-no-dou.pdf",
+      "bytes": 1132265,
+      "sha256": "f670cd2cc4d576eb174977c75daf5e4f946b09c62e29b62bea6fb3a1b730c46b"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-02-03T15:00:02",
+      "dataArquivo": "03/02/2025 15:00",
+      "descricaoArquivo": "Edital nº 03/2025 – Abertura - Atualizado conforme retificações",
+      "nomeArquivo": "57520F2458AA81686E5016B397FF7543E5DCFD4C98F3B0BE16A1874849B11AC9.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/57520F2458AA81686E5016B397FF7543E5DCFD4C98F3B0BE16A1874849B11AC9.pdf",
+      "arquivo_local": "2025-02-03_edital-n-03-2025-abertura-atualizado-conforme-retificacoes.pdf",
+      "bytes": 789687,
+      "sha256": "bdbf6a6914688a322fde8cb477ce48826f3836127cced006693f5b84d744bcf7"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-02-24T15:40:00",
+      "dataArquivo": "24/02/2025 15:40",
+      "descricaoArquivo": "Respostas às Impugnações ao edital nº 03/2025",
+      "nomeArquivo": "PMDF_CFO_2025_RESPOSTAS_S_IMPUGNAES.PDF",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/PMDF_CFO_2025_RESPOSTAS_S_IMPUGNAES.PDF",
+      "arquivo_local": "2025-02-24_respostas-as-impugnacoes-ao-edital-n-03-2025.pdf",
+      "bytes": 860952,
+      "sha256": "cbfa4a0f4f25147162e08a7aec5aabd2be9e20fc0754951d8446743eabcb3889"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-02-28T09:00:00",
+      "dataArquivo": "28/02/2025 09:00",
+      "descricaoArquivo": "Edital nº 20/2025 - Retificações e inclusões ao edital de abertura nº 03/2025",
+      "nomeArquivo": "ED_20.2025_PMDF_CFO_25_RET_IMPUGNACOES.PDF",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/ED_20.2025_PMDF_CFO_25_RET_IMPUGNACOES.PDF",
+      "arquivo_local": "2025-02-28_edital-n-20-2025-retificacoes-e-inclusoes-ao-edital-de-abertura-n-03-2025.pdf",
+      "bytes": 216511,
+      "sha256": "dfdc3f693df44bdfd15e73ebf264de87879ee279eab5d8dbab3a6facd849caa0"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-03-21T18:35:00",
+      "dataArquivo": "21/03/2025 18:35",
+      "descricaoArquivo": "Edital nº 32/2025 - Retificações e inclusões do edital de abertura nº 3/2025",
+      "nomeArquivo": "Ed_32.2025_PMDF_CFO_25_ret_TCDF.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/Ed_32.2025_PMDF_CFO_25_ret_TCDF.pdf",
+      "arquivo_local": "2025-03-21_edital-n-32-2025-retificacoes-e-inclusoes-do-edital-de-abertura-n-3-2025.pdf",
+      "bytes": 238355,
+      "sha256": "435349322855bfb6e1f5445c1bf08e9bc8a8224ba57330af47c1b6d162eba032"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-03-25T17:30:00",
+      "dataArquivo": "25/03/2025 17:30",
+      "descricaoArquivo": "Comunicado - Adiamento das inscrições",
+      "nomeArquivo": "PMDF_Comunicado_adiamento_inscricao.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/PMDF_Comunicado_adiamento_inscricao.pdf",
+      "arquivo_local": "2025-03-25_comunicado-adiamento-das-inscricoes.pdf",
+      "bytes": 153391,
+      "sha256": "86c832bb5a1538d6e7a0a2abb52b8f953ade9d5887d5894fed9ab4182247cdb3"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-03-28T09:00:00",
+      "dataArquivo": "28/03/2025 09:00",
+      "descricaoArquivo": "Edital nº 39/2025 - Retificações do edital nº 3/2025, retificações de datas e reabertura das inscrições",
+      "nomeArquivo": "Ed_39.2025_PMDF_CFO_25_ret_TCDF.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/Ed_39.2025_PMDF_CFO_25_ret_TCDF.pdf",
+      "arquivo_local": "2025-03-28_edital-n-39-2025-retificacoes-do-edital-n-3-2025-retificacoes-de-datas-e-reabertura-das-inscricoes.pdf",
+      "bytes": 685253,
+      "sha256": "570952583a42d00f3ba287cb9db809ae37ea2c9741fd6e3cad8782030c194cff"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-05-08T11:55:00",
+      "dataArquivo": "08/05/2025 11:55",
+      "descricaoArquivo": "Edital nº 64/2025 - Resultado provisório da análise do documento comprobatório do requisito de idade",
+      "nomeArquivo": "Ed_64.2025_PMDF_CFO_25_Res_prov_comp_idade.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/Ed_64.2025_PMDF_CFO_25_Res_prov_comp_idade.pdf",
+      "arquivo_local": "2025-05-08_edital-n-64-2025-resultado-provisorio-da-analise-do-documento-comprobatorio-do-requisito-de-idade.pdf",
+      "bytes": 374158,
+      "sha256": "59f850aa3f56f9978b65627938066853aa7e80900878cca8295226cc3ed0e139"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-05-08T11:55:00",
+      "dataArquivo": "08/05/2025 11:55",
+      "descricaoArquivo": "Relação provisória dos candidatos com a inscrição deferida para concorrer como hipossuficientes",
+      "nomeArquivo": "PMDF_CFO_2025_Rel_Prov_hipo.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/PMDF_CFO_2025_Rel_Prov_hipo.pdf",
+      "arquivo_local": "2025-05-08_relacao-provisoria-dos-candidatos-com-a-inscricao-deferida-para-concorrer-como-hipossuficientes.pdf",
+      "bytes": 147264,
+      "sha256": "239176cda92a7fae2ddf1e73aef81fa059f679b2fe420521a68f26d678eb47e8"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-05-20T10:40:00",
+      "dataArquivo": "20/05/2025 10:40",
+      "descricaoArquivo": "Comunicado - Interrupção de todas as atividades e publicações referentes ao concurso público de admissão ao Curso de Formação de Oficiais",
+      "nomeArquivo": "Comunicado_PMDF_CFO_25_suspensao_concurso.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/Comunicado_PMDF_CFO_25_suspensao_concurso.pdf",
+      "arquivo_local": "2025-05-20_comunicado-interrupcao-de-todas-as-atividades-e-publicacoes-referentes-ao-concurso-publico-de-admissao-ao-curso-de-formacao-de-oficiais.pdf",
+      "bytes": 110006,
+      "sha256": "99812cf87a9a2ab572492f0c2c28691d633aa0323264fb4234f313647b111af5"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-05-26T18:10:00",
+      "dataArquivo": "26/05/2025 18:10",
+      "descricaoArquivo": "Edital nº 69/2025 – Suspensão do concurso público de admissão ao Curso de Formação de Oficiais da Polícia Militar do Distrito Federal",
+      "nomeArquivo": "Ed_69.2025_PMDF_CFO_25_suspensao_concurso.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/Ed_69.2025_PMDF_CFO_25_suspensao_concurso.pdf",
+      "arquivo_local": "2025-05-26_edital-n-69-2025-suspensao-do-concurso-publico-de-admissao-ao-curso-de-formacao-de-oficiais-da-policia-militar-do-distrito-federal.pdf",
+      "bytes": 122519,
+      "sha256": "b90a76c96a1305f0317bf237f7068e4da6a2b53f12b9254abbcd035088a1133a"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-12-19T15:45:00",
+      "dataArquivo": "19/12/2025 15:45",
+      "descricaoArquivo": "Edital nº 207/2025 - Retificação do edital normativo do concurso público de admissão ao curso de formação de oficiais (CFO)",
+      "nomeArquivo": "EAFB2A23C9AE9C309431E847FC1B4D3AB416CB592FB69D4C4B8D93693210BAA9.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/EAFB2A23C9AE9C309431E847FC1B4D3AB416CB592FB69D4C4B8D93693210BAA9.pdf",
+      "arquivo_local": "2025-12-19_edital-n-207-2025-retificacao-do-edital-normativo-do-concurso-publico-de-admissao-ao-curso-de-formacao-de-oficiais-cfo.pdf",
+      "bytes": 119717,
+      "sha256": "38e3bb96f9f9825b55d109507f6551bf41f77462891bc137baee76ac5868371b"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2025-12-30T15:20:00",
+      "dataArquivo": "30/12/2025 15:20",
+      "descricaoArquivo": "Edital nº 212/2025 - Retificação do subitem 4.1 do Edital nº 3/2025, de 31 de janeiro de 2025, e suas alterações, bem como a alteração do subitem 5.7.7.2 do edital 207/2025, de 23 de dezembro de 2025, e a inclusão do subitem 5.7.7.3",
+      "nomeArquivo": "4D3A1734EF52A50A579BA06618E1BA401FFA370E42EF2E3140512AD24EE2B040.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/4D3A1734EF52A50A579BA06618E1BA401FFA370E42EF2E3140512AD24EE2B040.pdf",
+      "arquivo_local": "2025-12-30_edital-n-212-2025-retificacao-do-subitem-4-1-do-edital-n-3-2025-de-31-de-janeiro-de-2025-e-suas-alteracoes-bem-como-a-alteracao-do-subitem-5.pdf",
+      "bytes": 140136,
+      "sha256": "4acdc1eec30db1d37f4651cdab5b1d94f2948eb41425112045234dbedea1cd7b"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2026-01-08T10:00:00",
+      "dataArquivo": "08/01/2026 10:00",
+      "descricaoArquivo": "Respostas às impugnações ao Edital nº 03/2025 – DGP/PMDF, de 31 de janeiro de 2025, e suas alterações",
+      "nomeArquivo": "D2789B29DF07B7E826C7F23E8EEA9E4E2E63C7A5A142DC95CD66967D4F5CCFFF.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/D2789B29DF07B7E826C7F23E8EEA9E4E2E63C7A5A142DC95CD66967D4F5CCFFF.pdf",
+      "arquivo_local": "2026-01-08_respostas-as-impugnacoes-ao-edital-n-03-2025-dgp-pmdf-de-31-de-janeiro-de-2025-e-suas-alteracoes.pdf",
+      "bytes": 473328,
+      "sha256": "e254836faa1c9d677c4e5838d8e45e5239789c7231ec9448e6c5194c1e6d9655"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2026-01-08T17:10:00",
+      "dataArquivo": "08/01/2026 17:10",
+      "descricaoArquivo": "Edital nº 12/2026 – Retificação do subitem 2.3.1 do Edital nº 3/2025 – DGP/PMDF, de 31 de janeiro de 2025, e suas alterações, bem como a retificação e a inclusão de itens e subitens constantes do Anexo III do referido edital",
+      "nomeArquivo": "3D76A73C32D1423452B70893F980D92FD7E93517E1F1F46A50D6372E2D431164.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/3D76A73C32D1423452B70893F980D92FD7E93517E1F1F46A50D6372E2D431164.pdf",
+      "arquivo_local": "2026-01-08_edital-n-12-2026-retificacao-do-subitem-2-3-1-do-edital-n-3-2025-dgp-pmdf-de-31-de-janeiro-de-2025-e-suas-alteracoes-bem-como-a-retificacao.pdf",
+      "bytes": 218829,
+      "sha256": "8f0bfc9d5fbcc2b7128693014bc1e683334542c04ab9d7f00b0c5047ee7cafd5"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2026-01-08T17:10:00",
+      "dataArquivo": "08/01/2026 17:10",
+      "descricaoArquivo": "Edital nº 10/2026 - Retificações dos Editais nº 207/2025 - DGP/PMDF, de 23 de dezembro de 2025, e nº 212/2025 - DGP/PMDF, de 26 de dezembro de 2025",
+      "nomeArquivo": "4855C0F20F1E5C001BACDBECFDB1B4A9F486A8D1C821F7BF99F9BFDCE17D0115.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/4855C0F20F1E5C001BACDBECFDB1B4A9F486A8D1C821F7BF99F9BFDCE17D0115.pdf",
+      "arquivo_local": "2026-01-08_edital-n-10-2026-retificacoes-dos-editais-n-207-2025-dgp-pmdf-de-23-de-dezembro-de-2025-e-n-212-2025-dgp-pmdf-de-26-de-dezembro-de-2025.pdf",
+      "bytes": 132200,
+      "sha256": "43de9e26e4c69aaf6221c46f4e1dd76f5bc25faeeebcc078572d1a8c0de20cff"
+    },
+    {
+      "status": "ok",
+      "dataArquivoObj": "2026-01-21T11:15:00",
+      "dataArquivo": "21/01/2026 11:15",
+      "descricaoArquivo": "Edital nº 18/2026 – Retificação do subitem 7.3 do Edital de Abertura nº 03/2025",
+      "nomeArquivo": "21FF04D81485CF546709D5D4F8B057B5032AC70FEC8B8E6A4D90C4B2A5B66647.pdf",
+      "url_cdn": "https://cdn.cebraspe.org.br/concursos/pm_df_25_cfo/arquivos/21FF04D81485CF546709D5D4F8B057B5032AC70FEC8B8E6A4D90C4B2A5B66647.pdf",
+      "arquivo_local": "2026-01-21_edital-n-18-2026-retificacao-do-subitem-7-3-do-edital-de-abertura-n-03-2025.pdf",
+      "bytes": 156453,
+      "sha256": "b03faf4924fdfad067b85d4c22879f7ab67c7ec8d17adc0339658ffb39c00b43"
+    }
+  ]
+}
